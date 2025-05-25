@@ -1,1 +1,5 @@
-Contido 6 en master
+<<<<<<< HEAD
+Contido 6 en master aa
+=======
+Contido 6 en rama2 aa
+>>>>>>> rama2
